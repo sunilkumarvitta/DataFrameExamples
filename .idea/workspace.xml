@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3933a55-2bcc-4b9f-ad3f-262e9f594d0f" name="Default" comment="" />
+    <list default="true" id="b3933a55-2bcc-4b9f-ad3f-262e9f594d0f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex11_PersistInRedshiftDb.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex11_PersistInRedshiftDb.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
@@ -31,8 +33,8 @@
       <file leaf-file-name="Ex11_PersistInRedshiftDb.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex11_PersistInRedshiftDb.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="21" column="144" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="144" />
+            <state relative-caret-position="174">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -50,6 +52,9 @@
     <findStrings>
       <find>53.24</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -77,17 +82,18 @@
         <option value="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex8_SqlLiterals.scala" />
         <option value="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex9_SqlLiterals.scala" />
         <option value="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex10_ReadFromRedshiftDb.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex11_PersistInRedshiftDb.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex11_PersistInRedshiftDb.scala" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -354,7 +360,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.24566929" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -714,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.11/com/ex/Ex11_PersistInRedshiftDb.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="21" column="144" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="144" />
+        <state relative-caret-position="174">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>

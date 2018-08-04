@@ -14,7 +14,7 @@ object Ex11_PersistInRedshiftDb {
         .option("header","true")
         .option("delimiter", "|")
         .csv("s3n://sunilvittarent2/posts.csv")
-
+//new code
 //      postsDf.show()
 //      postsDf.printSchema()
       postsDf.write
