@@ -1,0 +1,28 @@
+run
+7
+exit
+run
+exit
+run
+1
+run
+7
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/sidhartha.ray/AppData/Local/Temp/sbt-structure.xml
+run
+all {file:/E:/Dropbox/Training%20Programs/Spark%20Scala/Code/dataframe-examples/}dataframe-examples/products {file:/E:/Dropbox/Training%20Programs/Spark%20Scala/Code/dataframe-examples/}dataframe-examples/test:products
+run
+all {file:/E:/Dropbox/Training%20Programs/Spark%20Scala/Code/dataframe-examples/}dataframe-examples/products {file:/E:/Dropbox/Training%20Programs/Spark%20Scala/Code/dataframe-examples/}dataframe-examples/test:products
+run
+all {file:/E:/Dropbox/Training%20Programs/Spark%20Scala/Code/dataframe-examples/}dataframe-examples/products {file:/E:/Dropbox/Training%20Programs/Spark%20Scala/Code/dataframe-examples/}dataframe-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/vitta/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Sunil/Spark/dataframe-examples/}dataframe-examples/products {file:/C:/Sunil/Spark/dataframe-examples/}dataframe-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/vitta/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/products {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/vitta/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/products {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/vitta/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/products {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/vitta/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/products {file:/C:/Sunil/Spark/Fractus/dataframe-examples/}dataframe-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/vitta/AppData/Local/Temp/sbt-structure.xml; session clear-all

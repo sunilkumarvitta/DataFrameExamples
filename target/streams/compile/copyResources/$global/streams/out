@@ -1,0 +1,23 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\course.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\course.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\demographic.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\demographic.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\emp.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\emp.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\emp1.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\emp1.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\employee.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\employee.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\employee.json,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\employee.json)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\employee_1_20180123.json,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\employee_1_20180123.json)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\employee_2_20180123.json,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\employee_2_20180123.json)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\finances.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\finances.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\KC_Extract_1_20171009.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\KC_Extract_1_20171009.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\KC_Extract_1_20171015.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\KC_Extract_1_20171015.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\KC_Extract_20171009_QC.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\KC_Extract_20171009_QC.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\KC_Extract_2_20171009.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\KC_Extract_2_20171009.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\people(1).csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\people(1).csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\people.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\people.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\people.json,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\people.json)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\posts.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\posts.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\receipts_delta_GBR_14_10_2017.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\receipts_delta_GBR_14_10_2017.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\registration.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\registration.csv)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\text1.txt,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\text1.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\text2.txt,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\text2.txt)[0m
+[0m[[0mdebug[0m] [0m	(C:\Sunil\Spark\Fractus\dataframe-examples\src\main\resources\TransactionSync.csv,C:\Sunil\Spark\Fractus\dataframe-examples\target\scala-2.11\classes\TransactionSync.csv)[0m
